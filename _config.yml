@@ -6,9 +6,9 @@ color:
   saturation: 0.23847220046445727
   rhythmicContrast: 0.6476894814986736
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Stella Cheung
