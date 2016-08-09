@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Living & Loving Freely]]></title>
         <description><![CDATA[Living & Loving Freely]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stella-cheung/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 00:24:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Aug 2016 00:46:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stella-cheung/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[YogaGals]]></title>
+            <description><![CDATA[<article><h1>YogaGals</h1><p>YogaGals™ is LA's premiere mobile and green holistic lifestyle ambassador. We provide yoga and massage therapy, as well as meditation and healthy cooking classes for individuals and groups. We're here to inspire those who live in the city to choose and create a healthier lifestyle and raise consciousness through practical tips for your everyday life.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b0532dc667980964ac633be2daed2fde/noop.jpg?input=http%3A%2F%2Fyogagals.com%2Fwp-content%2Fuploads%2F2012%2F01%2Fpv-sunset-pool-171x171.jpg"></article>]]></description>
+            <link>http://yogagals.com/</link>
+            <guid isPermaLink="false">a3704a3c-a828-48f5-b398-d63153682a4b</guid>
+            <pubDate>Tue, 09 Aug 2016 00:46:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GALLERY]]></title>
             <description><![CDATA[<article><h1>GALLERY</h1><p>© COPYRIGHT 2015, KEVORK A.CHOLAKIAN . ALL RIGHTS RESERVED.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d27bb1b931353653a767c42c6453d8b1/noop.jpg?input=http%3A%2F%2Fwww.kacstudios.com%2Fuploads%2F5%2F4%2F6%2F6%2F54666289%2F8412877.jpg"></article>]]></description>
