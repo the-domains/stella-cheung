@@ -1,15 +1,15 @@
-layout_spectrum: 0.8354591263923794
-typography_spectrum: 0.22849553148262203
+layout_spectrum: 0.0896890724543482
+typography_spectrum: 0.96389229898341
 color:
-  brandStrength: 0.8163419289048761
-  lightness: 0.4919618437997997
-  saturation: 0.23847220046445727
-  rhythmicContrast: 0.6476894814986736
+  brandStrength: 0.825173927238211
+  lightness: 0.9864218714646995
+  saturation: 0.3737992597743869
+  rhythmicContrast: 0.7872192596551031
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#B8ECD7'
+    - '#083643'
+    - '#B1E001'
+    - '#CEF09D'
+    - '#476C5E'
 name: Stella Cheung
 title: Living & Loving Freely
